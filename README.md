@@ -3,7 +3,8 @@
 I'm a Data scientist and Actuary working at [Instituto de Ingeniería del Conocimiento](https://www.iic.uam.es/) (IIC) in Madrid, Spain.  
 Passionate about computer vision and everything related to artificial intelligence
 
-## Languages and tools :hammer_and_wrench:
+## Languages and tools 💻 :hammer_and_wrench:
+:com
 <!--
 **ediboc/ediboc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
