@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eduardo E. Bocarruido T.
+# Hi there 👋, I'm Eduardo E. Bocarruido T.
 --
 I'm a Data scientist and Actuary
 <!--
