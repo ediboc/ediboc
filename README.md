@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Eduardo E. Bocarruido T.
---
-I'm a Data scientist and Actuary
+
+I'm a Data scientist and Actuary working at (Instituto de Ingeniería del Conocimiento](https://www.iic.uam.es/) (IIC) in Madrid, Spain
 <!--
 **ediboc/ediboc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
