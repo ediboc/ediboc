@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Eduardo E. Bocarruido T.
-
+--
+I'm a Data scientist and Actuary
 <!--
 **ediboc/ediboc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
