@@ -4,9 +4,7 @@ I'm a Data scientist and Actuary working at [Instituto de Ingeniería del Conoci
 Passionate about computer vision and everything related to artificial intelligence
 
 ## Languages and tools 💻 :hammer_and_wrench:
-<p>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-</p>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img 
 <!--
 **ediboc/ediboc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
